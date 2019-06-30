@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-container", "aspnet-container\aspnet-container.csproj", "{95465E49-7120-42C4-97A5-A123C22D6FDD}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BCF490EE-D9DD-4C1D-9307-04231027895C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{95465E49-7120-42C4-97A5-A123C22D6FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95465E49-7120-42C4-97A5-A123C22D6FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95465E49-7120-42C4-97A5-A123C22D6FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF490EE-D9DD-4C1D-9307-04231027895C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF490EE-D9DD-4C1D-9307-04231027895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF490EE-D9DD-4C1D-9307-04231027895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF490EE-D9DD-4C1D-9307-04231027895C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
